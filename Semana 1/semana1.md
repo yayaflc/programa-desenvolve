@@ -8,3 +8,6 @@ Tópicos mencionados:
 * Utilizar o navegador para inspecionar elementos
 * Como definir estilos para elementos usando o CSS
 
+Projetos implementados:
+* [Barbearia Alura](../Semana%201/Barbearia%20Alura/)
+* [Barbearia Alura v2](../Semana%201/Barbearia%20Alura%20v2/) *(reformed by @yaya)*
