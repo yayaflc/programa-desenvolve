@@ -5,7 +5,7 @@
 
 ---
 
-**SUMÁRIO:**
+**📅 TRILHA FULLSTACK:**
 * [Semana 1](/Semana%201/semana1.md)
 * Semana 2
 * Semana 3

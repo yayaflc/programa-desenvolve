@@ -13,6 +13,8 @@
 * [Barbearia Alura - Landing page](../Semana%201/Barbearia%20Alura/)
 * [Barbearia Alura v2](../Semana%201/Barbearia%20Alura%20v2/) *(reformed by @yaya)*
 
+### <p align="center">[CERTIFICADO](https://cursos.alura.com.br/certificate/1e1f2b60-d335-4b2d-a712-9718ef16eb8e)
+
 ---
 ## HTML5 e CSS3 parte 2: posicionamento, listas e navegação.
 
@@ -25,3 +27,9 @@
 
 **PROJETOS IMPLEMENTADOS:**
 * [Barbearia Alura - Produtos page](../Semana%201/Barbearia%20Alura/produtos.html)
+
+### <p align="center"> [CERTIFICADO](https://cursos.alura.com.br/certificate/84e71416-7020-487b-b9b1-431c818f1bb5)
+
+---
+
+
