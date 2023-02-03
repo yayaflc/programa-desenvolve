@@ -30,6 +30,4 @@
 
 ### <p align="center"> [CERTIFICADO](https://cursos.alura.com.br/certificate/84e71416-7020-487b-b9b1-431c818f1bb5)
 
----
-
 
