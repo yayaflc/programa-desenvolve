@@ -2,29 +2,29 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
-.caixa{
+.caixa {
     position: relative;
     width: 940px;
     margin: 0 auto;
 }
 
-header{
+header {
     background-color: #BBBBBB;
     padding: 20px 0;
 }
 
-nav{
+nav {
     position: absolute;
     top: 110px;
     right: 0;
 }
 
-nav li{
+nav li {
     display: inline;
     margin: 0 0 0 15px;
 }
 
-nav a{
+nav a {
     text-transform: uppercase;
     color: #000000;
     font-weight: bold;
@@ -32,18 +32,18 @@ nav a{
     text-decoration: none;
 }
 
-nav a:hover{
+nav a:hover {
     color: #c78c19;
     text-decoration: underline;
 }
 
-.produtos{
+.produtos {
     width: 940px;
     margin: 0 auto;
     padding: 50px 0;
 }
 
-.produtos li{
+.produtos li {
     display: inline-block;
     text-align: center;
     width: 30%;
@@ -55,71 +55,67 @@ nav a:hover{
     border-radius: 10px;
 }
 
-.produtos li:hover{
+.produtos li:hover {
     border-color: #c78c19;
 }
 
-.produtos li:active{
+.produtos li:active {
     border-color: #088c19;
 }
 
-.produtos li:hover h2{
+.produtos li:hover h2 {
     font-size: 32px;
 }
 
-.produtos h2{
+.produtos h2 {
     font-size: 30px;
     font-weight: bold;
 }
 
-.produto-descricao{
+.produto-descricao {
     font-size: 18px;
 }
 
-.produto-preco{
+.produto-preco {
     font-size: 22px;
     font-weight: bold;
     margin-top: 10px;
 }
 
-footer{
+footer {
     text-align: center;
     background: url("imagens/bg.jpg");
     padding: 40px 0;
 }
 
-.copyright{
+.copyright {
     color: #FFFFFF;
     font-size: 13px;
     margin-top: 20px;    
 }
 
-main{
-    
-}
-
-form{
+form {
     margin: 40px 0;
 }
 
-form label, form legend{
+form label, form legend {
     display: block;
     font-size: 20px;
     margin: 0 0 10px;
 }
 
-.input-padrao{
+.input-padrao {
     display: block;
     margin: 0 0 20px;
     padding: 10px 25px;
     width: 50%;
 }
 
-.checkbox{
+.checkbox {
     margin: 20px 0;
 }
 
-.enviar{
+.enviar {
     width: 40%;
     padding: 15px 0;
     background: orange;
@@ -132,32 +128,32 @@ form label, form legend{
     cursor: pointer;
 }
 
-.enviar:hover{
+.enviar:hover {
     background: darkorange;
     transform: scale(1.2);
 }
 
-table{
+table {
     margin: 20px 0 40px;
 }
 
-thead{
+thead {
     background: #555555;
     color: #BBBBBB;
     font-weight: bold;
 }
 
-td, th{
+td, th {
     border: 1px solid #000000;
     padding: 8px 15px;
 }
 
 /* css da página inicial*/
-.banner{
+.banner {
     width: 100%;
 }
 
-.titulo-principal{
+.titulo-principal {
     text-align: center;
     font-size: 2em;
     margin: 0 0 1em;
@@ -165,7 +161,7 @@ td, th{
 }
 
 
-.principal{
+.principal {
     padding: 3em 0;
     background: #FEFEFE;
     width: 940px;
@@ -176,11 +172,11 @@ td, th{
     margin: 0 0 1em;
 }
 
-.principal strong{
+.principal strong {
     font-weight: bold;
 }
 
-.principal em{
+.principal em {
     font-style: italic;
 }
 
@@ -189,7 +185,7 @@ td, th{
     background: linear-gradient(#FEFEFE, #888888);
 }
 
-.mapa-conteudo{
+.mapa-conteudo {
     width: 940px;
     margin: 0 auto;
 }
@@ -199,48 +195,48 @@ td, th{
     text-align: center;
 }
 
-.beneficios{
+.beneficios {
     padding: 3em 0;
     background: #888888;
 }
 
-.conteudo-beneficios{
+.conteudo-beneficios {
     width: 640px;
     margin: 0 auto;
 }
 
-.lista-beneficios{
+.lista-beneficios {
     width: 40%;
     display: inline-block;
     vertical-align: top;
 }
 
-.itens:first-child{
+.itens:first-child {
     font-weight: bold;
 }
 
-.itens{
+.itens {
     line-height: 1.5em;
 }
 
-.itens:before{
+.itens:before {
     content:"✦ ";
 }
 
-.imagem-beneficios{
+.imagem-beneficios {
     width: 60%;
     opacity: 1;
     transition: 400ms;
     box-shadow: 10px 10px 10px 0 #000000;
 }
 
-.imagem-beneficios:hover{
+.imagem-beneficios:hover {
     width: 60%;
     opacity: 0.3;
 
 }
 
-.utensilios{
+.utensilios {
     width: 150px;
     float: left;
     margin: 0 20px 20px 0;
@@ -252,7 +248,7 @@ td, th{
 }
 
 @media screen and (max-width: 480px) {
-    .caixa, .principal, .conteudo-beneficios, . .mapa-conteudo, .video{
+    .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video {
         width: auto;
     }
     h1 {
