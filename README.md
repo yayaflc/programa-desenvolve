@@ -7,6 +7,7 @@
 
 **📅 TRILHA FULLSTACK:**
 * [Semana 1](/Semana%201/semana1.md)
-* Semana 2
-* Semana 3
+* [Semana 2](/Semana%202/semana2.md)
+* [Semana 3](/Semana%203/semana3.md)
+* Semana 4
 * *loading...*
