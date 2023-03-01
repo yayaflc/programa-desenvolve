@@ -12,3 +12,7 @@
 * [Semana 4](/Semana%204/semana4.md)
 * Semana 5
 * *loading...*
+
+**📝 ANOTAÇÕES:**
+* [HTML](/Anota%C3%A7%C3%B5es/HTML/html.md)
+* [CSS](/Anota%C3%A7%C3%B5es/CSS/CSS.md)
