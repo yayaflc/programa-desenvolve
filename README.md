@@ -10,7 +10,8 @@
 * [Semana 2](/Semana%202/semana2.md)
 * [Semana 3](/Semana%203/semana3.md)
 * [Semana 4](/Semana%204/semana4.md)
-* Semana 5
+* [Semana 5](/Semana%205/semana5.md)
+* [Semana 6](/Semana%206/semana6.md)
 * *loading...*
 
 **📝 ANOTAÇÕES:**
