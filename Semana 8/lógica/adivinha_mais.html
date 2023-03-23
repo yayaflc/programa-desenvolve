@@ -1,0 +1,26 @@
+<meta charset="UTF-8">
+
+<input />
+<button>Compare com o meu segredo</button>
+
+<script>
+    var segredo = Math.round(Math.round() * 10);
+    var input = document.querySelector("input");
+    input.focus();
+    
+    function verifica(){
+
+        if(input.value == segredo) {
+            alert("Parabéns! Você acertou!");
+        } else {
+            alert("Você errou!!!!");
+        }
+
+        input.value = "";
+        input.focus();
+    }
+
+    var button = document.querySelector("button");
+    button.onclick = verifica;
+
+</script>
