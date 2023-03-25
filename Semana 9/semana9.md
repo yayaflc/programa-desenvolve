@@ -9,8 +9,10 @@
 * Revise conceitos importantes na programação
 * Crie seu primeiro jogo!
 
+**PROJETOS IMPLEMENTADOS:**
+* [Desenhos e mini games](../Semana%209/exercicios/)
 
-### <p align="center"> [CERTIFICADO]()
+### <p align="center"> [CERTIFICADO](https://cursos.alura.com.br/certificate/c7c20458-ee64-4eee-b32c-40d8a21dbbd4)
 
 ## Arquitetura de computadores: por trás de como seu programa funciona
 
