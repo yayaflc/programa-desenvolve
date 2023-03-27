@@ -23,4 +23,4 @@
 * Entenda as limitações do seu computador para criar soluções mais efetivas
 * Veja como os dados do seu programa são armazenados na memória
 
-### <p align="center"> [CERTIFICADO]()
+### <p align="center"> [CERTIFICADO](https://cursos.alura.com.br/certificate/c646432c-737e-45f0-8787-087bf8def225)
