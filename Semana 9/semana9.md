@@ -14,6 +14,8 @@
 
 ### <p align="center"> [CERTIFICADO](https://cursos.alura.com.br/certificate/c7c20458-ee64-4eee-b32c-40d8a21dbbd4)
 
+---
+
 ## Arquitetura de computadores: por trás de como seu programa funciona
 
 **TÓPICOS ABORDADOS:**
