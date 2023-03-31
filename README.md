@@ -15,6 +15,7 @@
 * [Semana 7](/Semana%207/semana7.md)
 * [Semana 8](/Semana%208/semana8.md)
 * [Semana 9](/Semana%209/semana9.md)
+* [Semana 10](/Semana%2010/semana10.md)
 * *loading...*
 
 **📝 ANOTAÇÕES:**
