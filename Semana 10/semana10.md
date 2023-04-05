@@ -9,6 +9,8 @@
 * Saiba quais são os tipos de dados aceitos no JS e quando utilizar cada um
 * Pratique com os conceitos básicos e adquira conhecimentos sólidos
 
+### <p align="center"> [CERTIFICADO](https://cursos.alura.com.br/certificate/9418f835-58a4-4967-b68a-db74607b2759)
+
 ---
 
 ## JavaScript: Arrays
