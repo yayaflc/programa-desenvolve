@@ -22,3 +22,5 @@
 * Modifique arrays utilizando métodos do JS moderno (ES6 em diante)
 * Pratique com os conceitos básicos e adquira conhecimentos sólidos
 
+### <p align="center"> [CERTIFICADO](https://cursos.alura.com.br/certificate/1b504697-be2f-4a95-b4c3-5549f652fb6f)
+
