@@ -6,21 +6,21 @@
 ---
 
 **📅 TRILHA FULLSTACK:**
-* [Semana 1](/Semana%201-10/Semana%201/semana1.md)
-* [Semana 2](/Semana%201-10/Semana%202/semana2.md)
-* [Semana 3](/Semana%201-10/Semana%203/semana3.md)
-* [Semana 4](/Semana%201-10/Semana%204/semana4.md)
-* [Semana 5](/Semana%201-10/Semana%205/semana5.md)
-* [Semana 6](/Semana%201-10/Semana%206/semana6.md)
-* [Semana 7](/Semana%201-10Semana%207/semana7.md)
-* [Semana 8](/Semana%201-10/Semana%208/semana8.md)
-* [Semana 9](/Semana%201-10/Semana%209/semana9.md)
-* [Semana 10](/Semana%201-10/Semana_10/semana10.md)
-* [Semana 11](/Semana%2011-20/Semana_11/semana11.md)
-* [Semana 12](/Semana%2011-20/Semana_12/semana12.md)
-* [Semana 13](/Semana%2011-20/Semana_13/semana13.md)
-* [Semana 14](/Semana%2011-20/Semana_14/semana14.md)
-* [Semana 15](/Semana%2011-20/Semana_15/semana15.md)
+* [Semana 1](/Semana_1-10/Semana_1/semana1.md)
+* [Semana 2](/Semana_1-10/Semana_2/semana2.md)
+* [Semana 3](/Semana_1-10/Semana_3/semana3.md)
+* [Semana 4](/Semana_1-10/Semana_4/semana4.md)
+* [Semana 5](/Semana_1-10/Semana_5/semana5.md)
+* [Semana 6](/Semana_1-10/Semana_6/semana6.md)
+* [Semana 7](/Semana_1-10/Semana_7/semana7.md)
+* [Semana 8](/Semana_1-10/Semana_8/semana8.md)
+* [Semana 9](/Semana_1-10/Semana_9/semana9.md)
+* [Semana 10](/Semana_1-10/Semana_10/semana10.md)
+* [Semana 11](Semana_11-20\Semana_11\semana11.md)
+* [Semana 12](Semana_11-20\Semana_12\semana12.md)
+* [Semana 13](Semana_11-20\Semana_13\semana13.md)
+* [Semana 14](Semana_11-20\Semana_14\semana14.md)
+* [Semana 15](Semana_11-20\Semana_15\semana15.md)
 * *loading...*
 
 **👥 PROJETO EM GRUPO**
